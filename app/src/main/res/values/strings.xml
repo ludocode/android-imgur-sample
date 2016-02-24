@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Imgur Sample App</string>
+    <string name="app_name_short">Imgur Sample</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="imgur_error">An error occurred fetching data from Imgur! Try refreshing.</string>
+    <string name="imgur_image_error">An image failed to download!</string>
+</resources>

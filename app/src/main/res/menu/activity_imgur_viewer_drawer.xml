@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_gallery"
+        android:title="Gallery" />
+    <item
+        android:id="@+id/nav_memes"
+        android:title="Memes" />
+
+    <item android:title="Reddit">
+        <menu>
+            <item
+                android:id="@+id/nav_reddit_aww"
+                android:title="r/aww" />
+            <item
+                android:id="@+id/nav_reddit_lego"
+                android:title="r/LEGO" />
+            <item
+                android:id="@+id/nav_reddit_aquariums"
+                android:title="r/Aquariums" />
+            <item
+                android:id="@+id/nav_reddit_minecraft"
+                android:title="r/Minecraft" />
+        </menu>
+    </item>
+
+</menu>
